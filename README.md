@@ -20,4 +20,4 @@
 
   - 🚀 With one year of formal experience, I strongly believe that data and ML models are the core tools for solving modern economic challenges. I'm passionate about exploring the intersection of Economics, AI, and Data Analysis—always aiming to      turn data into strategic value. 
 
-[Don forget to take a look at my LinkedIn page](https://www.linkedin.com/in/andres-lopez-mendoza/). So we can connect! 🤝
+[Don't forget to take a look at my LinkedIn page](https://www.linkedin.com/in/andres-lopez-mendoza/). So we can connect! 🤝
