@@ -1,5 +1,3 @@
-# Hello there 👋, I'm [Andres](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2)
-
 ![image alt](https://github.com/AeroGenCreator/AeroGenCreator/blob/main/Banner.png)
 
 ![Static Badge](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=black)
@@ -10,6 +8,8 @@
 ![Static Badge](https://img.shields.io/badge/SQL-gray?logo=postgresql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SciPy-gray?logo=scipy&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PyTorch-gray?logo=pytorch&logoColor=white&labelColor=black)
+
+# Andres Alberto Lopez Mendoza
 
 ## [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
 
