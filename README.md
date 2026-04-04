@@ -11,6 +11,8 @@
 ![Static Badge](https://img.shields.io/badge/SciPy-gray?logo=scipy&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PyTorch-gray?logo=pytorch&logoColor=white&labelColor=black)
 
+## [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
+
 ## 🤖 About Me
 
   - 🧪 My path is all about curiosity and continuous learning. I started as an English Teacher, which developed my communication skills and my ability to simplify complex ideas—perfect preparation for data work!
