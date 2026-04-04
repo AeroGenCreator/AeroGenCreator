@@ -13,14 +13,111 @@
 
 ## [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
 
-## 🤖 About Me
+👨‍💻 Andres Alberto Lopez
 
-  - 🧪 My path is all about curiosity and continuous learning. I started as an English Teacher, which developed my communication skills and my ability to simplify complex ideas—perfect preparation for data work!
+Desarrollador de software con enfoque en backend, automatización y ciencia de datos, con más de 1.5 años de experiencia práctica en proyectos reales y desarrollo de herramientas propias.
 
-  - ⚗️ That curiosity led me to Data Science and Machine Learning (ML). After specialized training (TripleTen, A2 Capacitación, Domestika), I quickly moved into analytics and data decision-making.
+🧠 Áreas de especialización
 
-  - 📊 Currently, I'm applying this knowledge at Ferretería La Providencia, focusing on inventory efficiency. My most impactful project recently involved developing and deploying an ML prediction model based on LGBMRegression.
+- Desarrollo de ORMs y herramientas backend
+- Automatización de procesos empresariales
+- Ciencia de datos y modelos predictivos
+- Desarrollo de APIs y arquitectura de datos
 
-  - 🚀 With one year of formal experience, I strongly believe that data and ML models are the core tools for solving modern economic challenges. I'm passionate about exploring the intersection of Economics, AI, and Data Analysis—always aiming to      turn data into strategic value. 
+---
 
-[Don't forget to take a look at my LinkedIn page](https://www.linkedin.com/in/andres-lopez-mendoza/). So we can connect! 🤝
+⚙️ Stack Tecnológico
+
+Lenguajes & Core
+
+- Python (principal)
+- SQL (SQLite, modelado relacional)
+- Linux
+- Docker 
+
+Data Science & ML
+
+- Pandas, NumPy
+- Scikit-learn
+- TensorFlow
+- Matplotlib, Seaborn
+
+Backend & Arquitectura
+
+- Diseño de ORMs personalizados
+- Abstracción de queries SQL
+- Modelado relacional avanzado
+- Construcción de APIs tipo ORM (inspirado en Django / Odoo)
+
+---
+
+🧩 Proyecto Destacado: PanCakesORM
+
+Desarrollo de un ORM propio desde cero, inspirado en arquitecturas como Odoo y Django, con enfoque en simplicidad, expresividad y potencia.
+
+Características técnicas:
+
+- Query builder encadenable estilo API:
+  Sale.q().filter(...).link("client").all().to_dict()
+- Sistema dinámico de filtros ("__" syntax)
+- Joins automáticos basados en relaciones ("link()")
+- Abstracción de SQL con control fino
+- Conversión automática a estructuras tipo API (dict)
+- Manejo de relaciones y llaves foráneas
+- Arquitectura extensible para serialización y aliasing
+
+---
+
+🏢 Experiencia Profesional
+
+Nentria Intelligent Solutions (4 meses)
+
+- Desarrollo de 5 módulos en Odoo para gestión escolar
+- Modelado de datos y lógica de negocio
+- Personalización de flujos administrativos
+
+---
+
+🏭 Proyecto Real (6 meses) – Ferretería La Providencia
+
+Desarrollo de software completo para operación del negocio:
+
+- Sistema de facturación y ventas
+- Automatización de inventario
+- Punto de reorden inteligente
+- Dashboard de métricas y estadísticas
+- Modelo de predicción de ventas (series de tiempo - ML)
+
+---
+
+🎓 Formación
+
+TripleTen – Data Science & Software Development
+
+- Proyectos prácticos con:
+  - Machine Learning
+  - Análisis de datos
+  - Visualización
+  - Modelos predictivos
+
+---
+
+📊 Enfoque
+
+Me especializo en construir sistemas que conectan:
+
+- Datos → Decisiones
+- SQL → APIs
+- Negocio → Automatización
+
+---
+
+🚧 En progreso
+
+- Serialización avanzada tipo JSON API
+- Sistema de alias dinámico en queries
+- Helpers tipo "select()" y "count()"
+- Expansión de PanCakesORM como framework completo
+
+---
+
