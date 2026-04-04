@@ -59,8 +59,11 @@ Características técnicas:
 
 - Query builder encadenable estilo API:
   Sale.q().filter(...).link("client").all().to_dict()
+
 - Sistema dinámico de filtros ("__" syntax)
-- Joins automáticos basados en relaciones ("link()")
+- Joins automáticos basados en relaciones
+ ("link()")
+
 - Abstracción de SQL con control fino
 - Conversión automática a estructuras tipo API (dict)
 - Manejo de relaciones y llaves foráneas
