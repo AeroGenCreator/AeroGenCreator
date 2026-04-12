@@ -11,7 +11,7 @@
 
 # Andres Alberto Lopez Mendoza
 
-## [Ferretería Proyecto](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia) | [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
+## [PanCakesORM Compatible API](https://fringe-edge-3f8.notion.site/PanCakesORM-32b8851a844d80bd8299f040210ee165) | [Ferretería Proyecto](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia) | [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74) | [Proyecto Odoo](https://school.nentria.com/) U: admin P: admnin
 
 👨‍💻 Andres Alberto Lopez
 
@@ -66,8 +66,11 @@ Características técnicas:
 
 - Abstracción de SQL con control fino
 - Conversión automática a estructuras tipo API (dict)
+- Serialización avanzada tipo API (JSON)
 - Manejo de relaciones y llaves foráneas
 - Arquitectura extensible para serialización y aliasing
+- Sistema de alias dinámico en queries
+- Helpers tipo "select()" y "count()"
 
 ---
 
@@ -117,9 +120,6 @@ Me especializo en construir sistemas que conectan:
 
 🚧 En progreso
 
-- Serialización avanzada tipo JSON API
-- Sistema de alias dinámico en queries
-- Helpers tipo "select()" y "count()"
 - Expansión de PanCakesORM como framework completo
 
 ---
