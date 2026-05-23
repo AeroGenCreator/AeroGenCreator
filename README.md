@@ -1,5 +1,3 @@
-![image alt](https://github.com/AeroGenCreator/AeroGenCreator/blob/main/Banner.png)
-
 ![Static Badge](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-gray?logo=scikit-learn&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Pandas-gray?logo=pandas&logoColor=white&labelColor=black)
@@ -8,6 +6,8 @@
 ![Static Badge](https://img.shields.io/badge/SQL-gray?logo=postgresql&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/SciPy-gray?logo=scipy&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PyTorch-gray?logo=pytorch&logoColor=white&labelColor=black)
+
+![image alt](https://github.com/AeroGenCreator/AeroGenCreator/blob/main/Banner.png)
 
 # Andres Alberto Lopez Mendoza
 
