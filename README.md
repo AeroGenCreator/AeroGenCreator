@@ -1,3 +1,5 @@
+# Andrés Alberto López Mendoza
+
 ![Static Badge](https://img.shields.io/badge/Python-gray?logo=python&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-gray?logo=scikit-learn&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Pandas-gray?logo=pandas&logoColor=white&labelColor=black)
@@ -7,15 +9,19 @@
 ![Static Badge](https://img.shields.io/badge/SciPy-gray?logo=scipy&logoColor=white&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/PyTorch-gray?logo=pytorch&logoColor=white&labelColor=black)
 
-![image alt](https://github.com/AeroGenCreator/AeroGenCreator/blob/main/Banner.png)
+![image alt](./Banner.png)
 
-# Andres Alberto Lopez Mendoza
+- [PanCakesORM Compatible API](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16)
+- [ClayPy (PanCakesORM & Flet) ERP Proyect](https://github.com/AeroGenCreator/ClayPy.git)
+- [Ferretería Proyecto](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia)
+- [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
+- [Proyecto Odoo](https://school.nentria.com/) - `U: admin P: admnin`
 
-## [PanCakesORM Compatible API](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16) | [Ferretería Proyecto](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia) | [DataScience Portfolio](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74) | [Proyecto Odoo](https://school.nentria.com/) U: admin P: admnin
+---
 
-👨‍💻 Andres Alberto Lopez
+👨‍💻 Sobre mi
 
-Desarrollador de software con enfoque en backend, automatización y ciencia de datos, con más de 1.5 años de experiencia práctica en proyectos reales y desarrollo de herramientas propias.
+Desarrollador de software con enfoque en backend, automatización y ciencia de datos, con más de 2 años de experiencia práctica en proyectos reales y desarrollo de herramientas propias.
 
 🧠 Áreas de especialización
 
@@ -31,7 +37,7 @@ Desarrollador de software con enfoque en backend, automatización y ciencia de d
 Lenguajes & Core
 
 - Python (principal)
-- SQL (SQLite, modelado relacional)
+- SQL (SQLite & PostgreSQL, modelado relacional)
 - Linux
 - Docker 
 
@@ -78,7 +84,7 @@ Características técnicas:
 
 Nentria Intelligent Solutions (4 meses)
 
-- Desarrollo de 5 módulos en Odoo para gestión escolar
+- Desarrollo de módulos en Odoo
 - Modelado de datos y lógica de negocio
 - Personalización de flujos administrativos
 
@@ -121,6 +127,7 @@ Me especializo en construir sistemas que conectan:
 🚧 En progreso
 
 - Expansión de PanCakesORM como framework completo
+- Integración con Flet
 
 ---
 
