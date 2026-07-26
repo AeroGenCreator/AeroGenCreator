@@ -7,7 +7,7 @@
 Por motivos de confidencialidad, no incluyo enlaces a los proyectos desarrollados en `Odoo`, ya que forman parte de mi trabajo profesional y no tengo autorización para compartirlos públicamente.
 
 * [PanCakesORM - Documentación](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16)
-* [Machiatto Framework](https://github.com/AeroGenCreator/ClayPy.git)
+* [Machiatto Framework](https://github.com/AeroGenCreator/Machiatto.git)
 * [Proyecto Ferretería](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia)
 * [Portafolio de Data Science](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
 
