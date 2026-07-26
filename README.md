@@ -6,7 +6,7 @@
 
 Por motivos de confidencialidad, no incluyo enlaces a los proyectos desarrollados en `Odoo`, ya que forman parte de mi trabajo profesional y no tengo autorización para compartirlos públicamente.
 
-* [PanCakesORM - Documentación](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16)
+* [PanCakesORM - Documentación](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16) | [PanCakesORM - Repositorio](https://github.com/AeroGenCreator/PanCakesORM.git)
 * [Machiatto Framework](https://github.com/AeroGenCreator/Machiatto.git)
 * [Nominas - Odoo](https://github.com/AeroGenCreator/Nenova-N-minas.git)
 * [Proyecto Ferretería](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia)
