@@ -38,7 +38,7 @@ Me considero una persona autodidacta, en constante aprendizaje y actualización 
 |![static](https://img.shields.io/badge/PostgreSQL-postgres?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=yellow)|**PostgreSQL**||
 |![static](https://img.shields.io/badge/-API-IA?style=flat&logoColor=white&label=OpenAI&labelColor=black&color=yellow)|**OpenAI API**||
 |![static](https://img.shields.io/badge/NumPy-np?style=flat&logo=numpy&logoColor=white&labelColor=black&color=yellow)|**NumPy**||
-|![static](https://img.shields.io/badge/Go-go?style=flat&logo=go&logoColor=white&labelColor=black&color=yellow)|**GO**|`Aprendiendo`|
+|![static](https://img.shields.io/badge/Go-go?style=flat&logo=go&logoColor=white&labelColor=black&color=yellow)|**GO**||
 |![static](https://img.shields.io/badge/Pandas-pandas?style=flat&logo=pandas&logoColor=white&labelColor=black&color=yellow)|**Pandas**||
 
 Ademas del uso de librerias extra:
