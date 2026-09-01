@@ -55,4 +55,4 @@ Más adelante desarrollé **PanCakesORM**, un ORM basado en SQLite, y posteriorm
 
 En mi puesto actual participo en el desarrollo de agentes inteligentes capaces de consultar en tiempo real la base de datos de Odoo para responder preguntas relacionadas con módulos de nómina, asistencias y gestión escolar (Nenova).
 
-Actualmente curso la Licenciatura en Ingeniería en Desarrollo de Software en la Universidad Abierta y a Distancia de México (UNADM).
+Actualmente curso la Licenciatura en Ingeniería en Desarrollo de Software en la UNIR.
