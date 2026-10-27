@@ -8,7 +8,6 @@
 ![static](https://img.shields.io/badge/HTML5-html?style=flat&logo=html5&logoColor=white&labelColor=black&color=teal)
 ![static](https://img.shields.io/badge/JavaScript-js?style=flat&logo=javascript&logoColor=white&labelColor=black&color=teal)
 ![static](https://img.shields.io/badge/PostgreSQL-postgres?style=flat&logo=postgresql&logoColor=white&labelColor=black&color=teal)
-![static](https://img.shields.io/badge/-API-IA?style=flat&logoColor=white&label=OpenAI&labelColor=black&color=teal)
 ![static](https://img.shields.io/badge/NumPy-np?style=flat&logo=numpy&logoColor=white&labelColor=black&color=teal)
 ![static](https://img.shields.io/badge/Go-go?style=flat&logo=go&logoColor=white&labelColor=black&color=teal)
 ![static](https://img.shields.io/badge/Pandas-pandas?style=flat&logo=pandas&logoColor=white&labelColor=black&color=teal)
@@ -17,13 +16,10 @@
 
 Por motivos de confidencialidad, no incluyo enlaces a los proyectos desarrollados en `Odoo`, ya que forman parte de mi trabajo profesional y no tengo autorización para compartirlos públicamente.
 
-* [Saavedra - WEB](https://github.com/AeroGenCreator/saavedra)
-* [Providencia](https://providencia.osscript.dev/)
-* [PanCakesORM - Documentación](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16) | [PanCakesORM - Repositorio](https://github.com/AeroGenCreator/PanCakesORM.git)
-* [Machiatto Framework](https://github.com/AeroGenCreator/Machiatto.git)
-* [Nominas - Odoo](https://github.com/AeroGenCreator/Nenova-N-minas.git)
-* [Proyecto Ferretería](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia)
-* [Data Science](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
+|Saavedra|Providencia|PanCakesORM|Machiatto|Nominas|Ferreteria|Data Science|
+|--------|-----------|-----------|---------|-------|----------|------------|
+|[Arquitectura](https://github.com/AeroGenCreator/saavedra)|[Software](https://providencia.osscript.dev/)|[Documentación](https://fringe-edge-3f8.notion.site/PanCakesORM-3408851a844d80a39dd9c813c88cfb16) -[Repositorio](https://github.com/AeroGenCreator/PanCakesORM.git)|[Framework](https://github.com/AeroGenCreator/Machiatto.git)|[Odoo](https://github.com/AeroGenCreator/Nenova-N-minas.git)|[Software](https://huggingface.co/spaces/Andres-AeroGenCreator/Providencia)|[Proyectos](https://fringe-edge-3f8.notion.site/Andres-Lopez-M-Data-Scientist-Portafolio-2ca8851a844d80d0b61bd0c7b20a65f2?pvs=74)
+
 
 ## Sobre mí 💽
 
